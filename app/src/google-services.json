@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "160805235907",
+    "firebase_url": "https://realtimedatabasepractice-a3443.firebaseio.com",
+    "project_id": "realtimedatabasepractice-a3443",
+    "storage_bucket": "realtimedatabasepractice-a3443.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160805235907:android:eda05de48deea9eb",
+        "android_client_info": {
+          "package_name": "b12app.vyom.com.firebaserealtimedatabasepractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160805235907-ki3ti09i33kr6lqbu8ng5u9vnjst23lh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "b12app.vyom.com.firebaserealtimedatabasepractice",
+            "certificate_hash": "33c878b8fe5637348a2970eeda2dac8adde995a7"
+          }
+        },
+        {
+          "client_id": "160805235907-f6bn0e0rntbjqnqgr224jqm25lblgibe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAFr1mnYxYOT0wcPQ5woBgAQtvrez7A7E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160805235907-f6bn0e0rntbjqnqgr224jqm25lblgibe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
